@@ -1,0 +1,23 @@
+.banner-container{
+  width: 900px;
+  margin: auto;
+}
+
+.card-container{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card{
+  width: 200px;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card img{
+  width: 200px
+}

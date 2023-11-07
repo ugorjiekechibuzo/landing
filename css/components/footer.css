@@ -1,0 +1,35 @@
+.footer {
+  text-align: center;
+  background-color: black;
+}
+
+.footer h2 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+i:hover {
+  color: white;
+}
+
+i {
+  font-size: 20px;
+}
+li {
+  display: inline;
+
+}
+
+ul{
+  padding-top: 0;
+  margin: 0;
+}
+
+i {
+  color: blue;
+  margin-right: 8px;
+}
+
+i:hover {
+  color: white
+}
